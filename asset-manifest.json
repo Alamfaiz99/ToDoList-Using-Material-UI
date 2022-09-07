@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ToDoList-Using-Material-UI/static/css/main.e2d4c98a.css",
+    "main.css": "/ToDoList-Using-Material-UI/static/css/main.e7ace6ee.css",
     "main.js": "/ToDoList-Using-Material-UI/static/js/main.f5fdd7b5.js",
     "index.html": "/ToDoList-Using-Material-UI/index.html",
-    "main.e2d4c98a.css.map": "/ToDoList-Using-Material-UI/static/css/main.e2d4c98a.css.map",
+    "main.e7ace6ee.css.map": "/ToDoList-Using-Material-UI/static/css/main.e7ace6ee.css.map",
     "main.f5fdd7b5.js.map": "/ToDoList-Using-Material-UI/static/js/main.f5fdd7b5.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2d4c98a.css",
+    "static/css/main.e7ace6ee.css",
     "static/js/main.f5fdd7b5.js"
   ]
 }
