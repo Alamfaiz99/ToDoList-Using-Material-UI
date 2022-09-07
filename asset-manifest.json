@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Alamfaiz99.github.io/ToDoList-Using-Material-UI/static/css/main.60124808.css",
+    "main.js": "/Alamfaiz99.github.io/ToDoList-Using-Material-UI/static/js/main.f5fdd7b5.js",
+    "index.html": "/Alamfaiz99.github.io/ToDoList-Using-Material-UI/index.html",
+    "main.60124808.css.map": "/Alamfaiz99.github.io/ToDoList-Using-Material-UI/static/css/main.60124808.css.map",
+    "main.f5fdd7b5.js.map": "/Alamfaiz99.github.io/ToDoList-Using-Material-UI/static/js/main.f5fdd7b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60124808.css",
+    "static/js/main.f5fdd7b5.js"
+  ]
+}
